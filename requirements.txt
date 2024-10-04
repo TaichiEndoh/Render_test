@@ -1,5 +1,2 @@
 Flask==2.0.1
 gunicorn==20.1.0
-# Pythonバージョンの指定
-# 3.8から3.10までの範囲でサポートするよう指定
-python_version>="3.8" python_version<"3.11"
